@@ -1,0 +1,634 @@
+{
+  "site": {
+    "brand": "Atlanta Fix & Flip Loan",
+    "brandHeaderHtml": "Atlanta<br>Fix & Flip Loan",
+    "domain": "atlantafixandflip.loansapp.cfd",
+    "formName": "Atlanta-Fix-Flip-Loan-Form",
+    "nicheTitle": "Fix & Flip Funding",
+    "pageCode": "FNF",
+    "state": "Georgia",
+    "region": "GA",
+    "metroName": "metro Atlanta",
+    "homeCityName": "Atlanta Metro",
+    "legalCityName": "metro Atlanta",
+    "legalLocation": "ATLFF",
+    "ga4MeasurementId": "G-FEXKSZB65E",
+    "airchattyTrackingId": "tk_61d238e145314251999b74fdd5c953cf",
+    "serviceType": "Fix and flip loan connection service",
+    "serviceDescription": "Fix and flip funding connections for real estate investors across metro Atlanta. Not a direct lender.",
+    "footerTagline": "Connecting Atlanta-area real estate investors with potential fix and flip funding options. We are not a direct lender.",
+    "guideLinks": [
+      {
+        "path": "/how-fix-and-flip-funding-works-in-georgia/",
+        "label": "How Fix and Flip Funding Works in Georgia"
+      },
+      {
+        "path": "/fix-and-flip-vs-hard-money/",
+        "label": "Fix and Flip vs Hard Money"
+      },
+      {
+        "path": "/fix-and-flip-loan-costs/",
+        "label": "Fix and Flip Loan Costs"
+      }
+    ],
+    "priorityCities": [
+      "atlanta",
+      "mableton",
+      "chamblee",
+      "milton"
+    ],
+    "exampleCitySlug": "atlanta",
+    "sheetUrl": "https://docs.google.com/spreadsheets/d/1RJZWDxSq3ZSm_tffqtjYtSZNkWPJs5GtGcyoNRd4jXI/gviz/tq?tqx=out:json&sheet=fees&headers=1",
+    "fallbackTerms": {
+      "fundingMax": "100%",
+      "drawTiming": "same-day construction draws",
+      "closingSpeed": "fast closings",
+      "feeDisclosure": "straightforward terms with no hidden fees",
+      "structure1ClosingPoints": "0.5 point",
+      "structure1MonthlyInterest": "1.5% monthly interest-only",
+      "structure1BalloonMonths": "6-month balloon",
+      "structure1ExtensionPoints": "1 point",
+      "structure2ClosingPoints": "3 points",
+      "structure2MonthlyInterest": "1% monthly interest-only",
+      "structure2BalloonMonths": "6-month balloon",
+      "structure2ExtensionPoints": "3 points",
+      "extensionMonths": "6-month extension",
+      "exampleLoanAmount": "",
+      "exampleHoldMonths": "",
+      "exampleAssumption": ""
+    },
+    "ui": {
+      "exploreTitle": "Explore metro Atlanta",
+      "exploreIntro": "Every property deserves a local look. Find your city below, then share the details of your project.",
+      "workedExampleHeading": "How an Atlanta flip loan could work",
+      "faqLenderAnswer": "No. Atlanta Fix & Flip Loan connects investors with one lending partner. Our lending partner makes its own decisions and provides the actual terms.",
+      "fundingWorksLinkLabel": "how fix and flip funding works in Georgia",
+      "lenderFootprint": "The same lender serves Georgia and Arizona."
+    }
+  },
+  "home": {
+    "title": "Fix and Flip Loans in Atlanta, GA | Atlanta Fix & Flip Loan",
+    "description": "Connect with potential fix and flip loan options for Atlanta-area investment properties. Share your purchase and renovation plan for a project-specific review.",
+    "cityName": "Atlanta Metro",
+    "location": "Homepage",
+    "intro": "Asset-based fix and flip funding starts with the Atlanta-area property and its renovation plan. Tell us about the home, the work you plan and how you expect to sell it. Atlanta Fix & Flip Loan helps connect investors with one lending partner; we do not lend directly.",
+    "angle": "A bungalow near the BeltLine, a Marietta ranch and a Gwinnett subdivision home have different repair questions. Start with the property's condition, the work required and the closest useful resale comparisons.",
+    "caution": "An attractive address cannot tell you whether the repair budget works. Check the scope and discuss the actual project with a funding partner before relying on any possible terms.",
+    "faqs": [
+      {
+        "q": "Are you the lender?",
+        "a": "No. We connect investors with one lending partner. Our lending partner determines eligibility and terms."
+      },
+      {
+        "q": "Does submitting guarantee funding?",
+        "a": "No. A submission starts a review, not an approval or commitment."
+      }
+    ]
+  },
+  "cities": [
+    {
+      "slug": "acworth",
+      "name": "Acworth",
+      "county": "Cobb",
+      "title": "Fix and Flip Loans in Acworth, GA | Atlanta Fix & Flip Loan",
+      "description": "Explore fix and flip loan connections for Acworth, Georgia investors. Share the property and renovation plan for a project-specific review.",
+      "intro": "Acworth offers older cottages near Main Street as well as homes toward Lake Allatoona. If you are planning a fix and flip in Acworth, share the property, your repair plan and intended resale. We connect investors with potential funding sources and are not a direct lender.",
+      "angle": "The location and renovation scope should be considered together. Acworth offers older cottages near Main Street as well as homes toward Lake Allatoona.",
+      "caution": "Consider the condition, setting and intended buyer together. Water-adjacent appeal does not remove the need for a sound inspection and realistic repair budget. We can discuss a possible funding connection once you have the project details ready."
+    },
+    {
+      "slug": "kennesaw",
+      "name": "Kennesaw",
+      "county": "Cobb",
+      "title": "Fix and Flip Loans in Kennesaw, GA | Atlanta Fix & Flip Loan",
+      "description": "Explore fix and flip loan connections for Kennesaw, Georgia investors. Share the property and renovation plan for a project-specific review.",
+      "intro": "Kennesaw has older homes near its railroad-town center and subdivisions farther out. If you are planning a fix and flip in Kennesaw, share the property, your repair plan and intended resale. We connect investors with potential funding sources and are not a direct lender.",
+      "angle": "The location and renovation scope should be considered together. Kennesaw has older homes near its railroad-town center and subdivisions farther out.",
+      "caution": "A property near Kennesaw State University may attract a different buyer than one near Kennesaw Mountain. Match the finish level and budget to the likely exit. We can discuss a possible funding connection once you have the project details ready."
+    },
+    {
+      "slug": "mableton",
+      "name": "Mableton",
+      "county": "Cobb",
+      "title": "Fix and Flip Loans in Mableton, GA | Atlanta Fix & Flip Loan",
+      "description": "Explore fix and flip loan connections for Mableton, Georgia investors. Share the property and renovation plan for a project-specific review.",
+      "intro": "Mableton neighborhoods near the Silver Comet Trail include older homes and newer subdivisions. If you are planning a fix and flip in Mableton, share the property, your repair plan and intended resale. We connect investors with potential funding sources and are not a direct lender.",
+      "angle": "The location and renovation scope should be considered together. Mableton neighborhoods near the Silver Comet Trail include older homes and newer subdivisions.",
+      "caution": "Confirm the parcel jurisdiction before planning permits or work. The city is relatively new, and the property details matter more than a broad market shorthand. We can discuss a possible funding connection once you have the project details ready."
+    },
+    {
+      "slug": "marietta",
+      "name": "Marietta",
+      "county": "Cobb",
+      "title": "Fix and Flip Loans in Marietta, GA | Atlanta Fix & Flip Loan",
+      "description": "Explore fix and flip loan connections for Marietta, Georgia investors. Share the property and renovation plan for a project-specific review.",
+      "intro": "Homes near Marietta Square differ from the ranches and subdivision properties farther east. If you are planning a fix and flip in Marietta, share the property, your repair plan and intended resale. We connect investors with potential funding sources and are not a direct lender.",
+      "angle": "The location and renovation scope should be considered together. Homes near Marietta Square differ from the ranches and subdivision properties farther east.",
+      "caution": "Compare your plan against nearby renovated homes, not only the broader Cobb market. The age and layout of the home can change where the budget goes. We can discuss a possible funding connection once you have the project details ready."
+    },
+    {
+      "slug": "powder-springs",
+      "name": "Powder Springs",
+      "county": "Cobb",
+      "title": "Fix and Flip Loans in Powder Springs, GA | Atlanta Fix & Flip Loan",
+      "description": "Explore fix and flip loan connections for Powder Springs, Georgia investors. Share the property and renovation plan for a project-specific review.",
+      "intro": "Ranch homes and subdivisions around the Silver Comet Trail offer different renovation paths. If you are planning a fix and flip in Powder Springs, share the property, your repair plan and intended resale. We connect investors with potential funding sources and are not a direct lender.",
+      "angle": "The location and renovation scope should be considered together. Ranch homes and subdivisions around the Silver Comet Trail offer different renovation paths.",
+      "caution": "For a Powder Springs property, test the resale against the closest comparable homes. A larger lot and a dated interior each affect the plan in different ways. We can discuss a possible funding connection once you have the project details ready."
+    },
+    {
+      "slug": "smyrna",
+      "name": "Smyrna",
+      "county": "Cobb",
+      "title": "Fix and Flip Loans in Smyrna, GA | Atlanta Fix & Flip Loan",
+      "description": "Explore fix and flip loan connections for Smyrna, Georgia investors. Share the property and renovation plan for a project-specific review.",
+      "intro": "The neighborhoods around Market Village include ranch homes that investors often consider for renovation. If you are planning a fix and flip in Smyrna, share the property, your repair plan and intended resale. We connect investors with potential funding sources and are not a direct lender.",
+      "angle": "The location and renovation scope should be considered together. The neighborhoods around Market Village include ranch homes that investors often consider for renovation.",
+      "caution": "Look closely at the existing floor plan and systems before committing to a Smyrna flip. Proximity to The Battery does not replace a property-level resale analysis. We can discuss a possible funding connection once you have the project details ready."
+    },
+    {
+      "slug": "forest-park",
+      "name": "Forest Park",
+      "county": "Clayton",
+      "title": "Fix and Flip Loans in Forest Park, GA | Atlanta Fix & Flip Loan",
+      "description": "Explore fix and flip loan connections for Forest Park, Georgia investors. Share the property and renovation plan for a project-specific review.",
+      "intro": "Forest Park has brick ranches near the airport corridor that may fit investor renovation plans. If you are planning a fix and flip in Forest Park, share the property, your repair plan and intended resale. We connect investors with potential funding sources and are not a direct lender.",
+      "angle": "The location and renovation scope should be considered together. Forest Park has brick ranches near the airport corridor that may fit investor renovation plans.",
+      "caution": "Check the roof, systems and interior scope rather than assuming a familiar ranch layout means simple work. The property-level numbers should drive the funding request. We can discuss a possible funding connection once you have the project details ready."
+    },
+    {
+      "slug": "brookhaven",
+      "name": "Brookhaven",
+      "county": "DeKalb",
+      "title": "Fix and Flip Loans in Brookhaven, GA | Atlanta Fix & Flip Loan",
+      "description": "Explore fix and flip loan connections for Brookhaven, Georgia investors. Share the property and renovation plan for a project-specific review.",
+      "intro": "Ashford Park and Drew Valley include cottages on lots that may invite larger renovation plans. If you are planning a fix and flip in Brookhaven, share the property, your repair plan and intended resale. We connect investors with potential funding sources and are not a direct lender.",
+      "angle": "The location and renovation scope should be considered together. Ashford Park and Drew Valley include cottages on lots that may invite larger renovation plans.",
+      "caution": "Separate the value of the site from the cost of the proposed work. Brookhaven infill and a straightforward remodel can follow different permit and budget paths. We can discuss a possible funding connection once you have the project details ready."
+    },
+    {
+      "slug": "chamblee",
+      "name": "Chamblee",
+      "county": "DeKalb",
+      "title": "Fix and Flip Loans in Chamblee, GA | Atlanta Fix & Flip Loan",
+      "description": "Explore fix and flip loan connections for Chamblee, Georgia investors. Share the property and renovation plan for a project-specific review.",
+      "intro": "Chamblee mixes rail-town residential streets with newer blocks around downtown. If you are planning a fix and flip in Chamblee, share the property, your repair plan and intended resale. We connect investors with potential funding sources and are not a direct lender.",
+      "angle": "The location and renovation scope should be considered together. Chamblee mixes rail-town residential streets with newer blocks around downtown.",
+      "caution": "An older home and a newer infill property call for different budget assumptions. Compare the project with similar homes on nearby streets before setting the exit. We can discuss a possible funding connection once you have the project details ready."
+    },
+    {
+      "slug": "decatur",
+      "name": "Decatur",
+      "county": "DeKalb",
+      "title": "Fix and Flip Loans in Decatur, GA | Atlanta Fix & Flip Loan",
+      "description": "Explore fix and flip loan connections for Decatur, Georgia investors. Share the property and renovation plan for a project-specific review.",
+      "intro": "Decatur bungalows and cottages can need a different approach from later suburban homes. If you are planning a fix and flip in Decatur, share the property, your repair plan and intended resale. We connect investors with potential funding sources and are not a direct lender.",
+      "angle": "The location and renovation scope should be considered together. Decatur bungalows and cottages can need a different approach from later suburban homes.",
+      "caution": "Check whether the property is actually within city limits and whether historic-area rules apply. The planned renovation should fit the nearby housing stock. We can discuss a possible funding connection once you have the project details ready."
+    },
+    {
+      "slug": "dunwoody",
+      "name": "Dunwoody",
+      "county": "DeKalb",
+      "title": "Fix and Flip Loans in Dunwoody, GA | Atlanta Fix & Flip Loan",
+      "description": "Explore fix and flip loan connections for Dunwoody, Georgia investors. Share the property and renovation plan for a project-specific review.",
+      "intro": "Dunwoody Village and nearby subdivisions include ranches and split-levels with varied layouts. If you are planning a fix and flip in Dunwoody, share the property, your repair plan and intended resale. We connect investors with potential funding sources and are not a direct lender.",
+      "angle": "The location and renovation scope should be considered together. Dunwoody Village and nearby subdivisions include ranches and split-levels with varied layouts.",
+      "caution": "Decide whether the project calls for reworking the layout or updating finishes. Local comparable sales can help test how much of the budget the exit supports. We can discuss a possible funding connection once you have the project details ready."
+    },
+    {
+      "slug": "lithonia",
+      "name": "Lithonia",
+      "county": "DeKalb",
+      "title": "Fix and Flip Loans in Lithonia, GA | Atlanta Fix & Flip Loan",
+      "description": "Explore fix and flip loan connections for Lithonia, Georgia investors. Share the property and renovation plan for a project-specific review.",
+      "intro": "Lithonia-area subdivisions near Arabia Mountain can vary widely by age and setting. If you are planning a fix and flip in Lithonia, share the property, your repair plan and intended resale. We connect investors with potential funding sources and are not a direct lender.",
+      "angle": "The location and renovation scope should be considered together. Lithonia-area subdivisions near Arabia Mountain can vary widely by age and setting.",
+      "caution": "Check the exact parcel and any site constraints before expanding a renovation plan. A light refresh and a heavy rehab should not be modeled as the same project. We can discuss a possible funding connection once you have the project details ready."
+    },
+    {
+      "slug": "stone-mountain",
+      "name": "Stone Mountain",
+      "county": "DeKalb",
+      "title": "Fix and Flip Loans in Stone Mountain, GA | Atlanta Fix & Flip Loan",
+      "description": "Explore fix and flip loan connections for Stone Mountain, Georgia investors. Share the property and renovation plan for a project-specific review.",
+      "intro": "Stone Mountain offers ranch homes near the village and subdivisions along US-78. If you are planning a fix and flip in Stone Mountain, share the property, your repair plan and intended resale. We connect investors with potential funding sources and are not a direct lender.",
+      "angle": "The location and renovation scope should be considered together. Stone Mountain offers ranch homes near the village and subdivisions along US-78.",
+      "caution": "Compare the subject with homes in its own part of the market. The park is a familiar landmark, but the address and condition determine the practical project. We can discuss a possible funding connection once you have the project details ready."
+    },
+    {
+      "slug": "stonecrest",
+      "name": "Stonecrest",
+      "county": "DeKalb",
+      "title": "Fix and Flip Loans in Stonecrest, GA | Atlanta Fix & Flip Loan",
+      "description": "Explore fix and flip loan connections for Stonecrest, Georgia investors. Share the property and renovation plan for a project-specific review.",
+      "intro": "Stonecrest residential areas sit near Panola Road and the Arabia Mountain landscape. If you are planning a fix and flip in Stonecrest, share the property, your repair plan and intended resale. We connect investors with potential funding sources and are not a direct lender.",
+      "angle": "The location and renovation scope should be considered together. Stonecrest residential areas sit near Panola Road and the Arabia Mountain landscape.",
+      "caution": "Check land-use and environmental constraints for the actual parcel before assuming an addition is possible. A renovation plan should start with what the site allows. We can discuss a possible funding connection once you have the project details ready."
+    },
+    {
+      "slug": "tucker",
+      "name": "Tucker",
+      "county": "DeKalb",
+      "title": "Fix and Flip Loans in Tucker, GA | Atlanta Fix & Flip Loan",
+      "description": "Explore fix and flip loan connections for Tucker, Georgia investors. Share the property and renovation plan for a project-specific review.",
+      "intro": "Brick ranch homes behind Tucker Main Street can offer an established renovation canvas. If you are planning a fix and flip in Tucker, share the property, your repair plan and intended resale. We connect investors with potential funding sources and are not a direct lender.",
+      "angle": "The location and renovation scope should be considered together. Brick ranch homes behind Tucker Main Street can offer an established renovation canvas.",
+      "caution": "Map out structural and mechanical work before choosing finishes. Northlake-area comparisons may not tell the whole story for a home closer to downtown Tucker. We can discuss a possible funding connection once you have the project details ready."
+    },
+    {
+      "slug": "douglasville",
+      "name": "Douglasville",
+      "county": "Douglas",
+      "title": "Fix and Flip Loans in Douglasville, GA | Atlanta Fix & Flip Loan",
+      "description": "Explore fix and flip loan connections for Douglasville, Georgia investors. Share the property and renovation plan for a project-specific review.",
+      "intro": "The historic downtown and the I-20 corridor give Douglasville investors a range of housing types. If you are planning a fix and flip in Douglasville, share the property, your repair plan and intended resale. We connect investors with potential funding sources and are not a direct lender.",
+      "angle": "The location and renovation scope should be considered together. The historic downtown and the I-20 corridor give Douglasville investors a range of housing types.",
+      "caution": "An older home may need systems work that a surface-level estimate misses. Check the full repair plan before treating an attractive purchase price as a margin. We can discuss a possible funding connection once you have the project details ready."
+    },
+    {
+      "slug": "alpharetta",
+      "name": "Alpharetta",
+      "county": "Fulton",
+      "title": "Fix and Flip Loans in Alpharetta, GA | Atlanta Fix & Flip Loan",
+      "description": "Explore fix and flip loan connections for Alpharetta, Georgia investors. Share the property and renovation plan for a project-specific review.",
+      "intro": "The downtown area and the GA-400 corridor offer very different property settings. If you are planning a fix and flip in Alpharetta, share the property, your repair plan and intended resale. We connect investors with potential funding sources and are not a direct lender.",
+      "angle": "The location and renovation scope should be considered together. The downtown area and the GA-400 corridor offer very different property settings.",
+      "caution": "An older ranch near Alpharetta may be a renovation candidate, while a subdivision home can involve HOA restrictions. Confirm the actual rules for the parcel before finalizing a scope. We can discuss a possible funding connection once you have the project details ready."
+    },
+    {
+      "slug": "atlanta",
+      "name": "Atlanta",
+      "county": "Fulton",
+      "title": "Fix and Flip Loans in Atlanta, GA | Atlanta Fix & Flip Loan",
+      "description": "Explore fix and flip loan connections for Atlanta, Georgia investors. Share the property and renovation plan for a project-specific review.",
+      "intro": "BeltLine-area bungalows and southwest brick ranches call for very different renovation scopes. If you are planning a fix and flip in Atlanta, share the property, your repair plan and intended resale. We connect investors with potential funding sources and are not a direct lender.",
+      "angle": "The location and renovation scope should be considered together. BeltLine-area bungalows and southwest brick ranches call for very different renovation scopes.",
+      "caution": "Review the property condition and the planned resale before you set the budget. Atlanta projects can vary block by block, so a local comparable sale deserves a closer look than a broad city average. We can discuss a possible funding connection once you have the project details ready."
+    },
+    {
+      "slug": "college-park",
+      "name": "College Park",
+      "county": "Fulton",
+      "title": "Fix and Flip Loans in College Park, GA | Atlanta Fix & Flip Loan",
+      "description": "Explore fix and flip loan connections for College Park, Georgia investors. Share the property and renovation plan for a project-specific review.",
+      "intro": "College Park has historic-district homes and ranches nearer the airport corridor. If you are planning a fix and flip in College Park, share the property, your repair plan and intended resale. We connect investors with potential funding sources and are not a direct lender.",
+      "angle": "The location and renovation scope should be considered together. College Park has historic-district homes and ranches nearer the airport corridor.",
+      "caution": "A historic property may have exterior requirements that shape the renovation. Check those requirements and the expected buyer before finalizing your budget. We can discuss a possible funding connection once you have the project details ready."
+    },
+    {
+      "slug": "east-point",
+      "name": "East Point",
+      "county": "Fulton",
+      "title": "Fix and Flip Loans in East Point, GA | Atlanta Fix & Flip Loan",
+      "description": "Explore fix and flip loan connections for East Point, Georgia investors. Share the property and renovation plan for a project-specific review.",
+      "intro": "East Point bungalows and brick ranches can call for different repair plans. If you are planning a fix and flip in East Point, share the property, your repair plan and intended resale. We connect investors with potential funding sources and are not a direct lender.",
+      "angle": "The location and renovation scope should be considered together. East Point bungalows and brick ranches can call for different repair plans.",
+      "caution": "Inspect the systems and structure before relying on curb appeal. An early budget tied to nearby comparable sales makes the proposed exit easier to discuss. We can discuss a possible funding connection once you have the project details ready."
+    },
+    {
+      "slug": "johns-creek",
+      "name": "Johns Creek",
+      "county": "Fulton",
+      "title": "Fix and Flip Loans in Johns Creek, GA | Atlanta Fix & Flip Loan",
+      "description": "Explore fix and flip loan connections for Johns Creek, Georgia investors. Share the property and renovation plan for a project-specific review.",
+      "intro": "Johns Creek subdivisions can present original-condition homes with substantial update needs. If you are planning a fix and flip in Johns Creek, share the property, your repair plan and intended resale. We connect investors with potential funding sources and are not a direct lender.",
+      "angle": "The location and renovation scope should be considered together. Johns Creek subdivisions can present original-condition homes with substantial update needs.",
+      "caution": "Ask about HOA guidance, then decide whether the renovation scope suits the surrounding homes. A larger finish budget is not automatically justified by the location. We can discuss a possible funding connection once you have the project details ready."
+    },
+    {
+      "slug": "milton",
+      "name": "Milton",
+      "county": "Fulton",
+      "title": "Fix and Flip Loans in Milton, GA | Atlanta Fix & Flip Loan",
+      "description": "Explore fix and flip loan connections for Milton, Georgia investors. Share the property and renovation plan for a project-specific review.",
+      "intro": "Milton properties around Crabapple and Birmingham can involve large lots and varied site conditions. If you are planning a fix and flip in Milton, share the property, your repair plan and intended resale. We connect investors with potential funding sources and are not a direct lender.",
+      "angle": "The location and renovation scope should be considered together. Milton properties around Crabapple and Birmingham can involve large lots and varied site conditions.",
+      "caution": "Evaluate the land and the home separately before deciding on scope. A renovation budget should account for the actual site rather than borrowing assumptions from a conventional subdivision. We can discuss a possible funding connection once you have the project details ready."
+    },
+    {
+      "slug": "roswell",
+      "name": "Roswell",
+      "county": "Fulton",
+      "title": "Fix and Flip Loans in Roswell, GA | Atlanta Fix & Flip Loan",
+      "description": "Explore fix and flip loan connections for Roswell, Georgia investors. Share the property and renovation plan for a project-specific review.",
+      "intro": "Near Canton Street, older homes can bring preservation questions that newer subdivisions may not. If you are planning a fix and flip in Roswell, share the property, your repair plan and intended resale. We connect investors with potential funding sources and are not a direct lender.",
+      "angle": "The location and renovation scope should be considered together. Near Canton Street, older homes can bring preservation questions that newer subdivisions may not.",
+      "caution": "Separate the renovation plan from the appeal of the address. For a Roswell property near a historic area, check any applicable exterior rules before assuming a design is possible. We can discuss a possible funding connection once you have the project details ready."
+    },
+    {
+      "slug": "sandy-springs",
+      "name": "Sandy Springs",
+      "county": "Fulton",
+      "title": "Fix and Flip Loans in Sandy Springs, GA | Atlanta Fix & Flip Loan",
+      "description": "Explore fix and flip loan connections for Sandy Springs, Georgia investors. Share the property and renovation plan for a project-specific review.",
+      "intro": "Wooded lots and older ranch homes around the GA-400 corridor can attract investors planning major renovations. If you are planning a fix and flip in Sandy Springs, share the property, your repair plan and intended resale. We connect investors with potential funding sources and are not a direct lender.",
+      "angle": "The location and renovation scope should be considered together. Wooded lots and older ranch homes around the GA-400 corridor can attract investors planning major renovations.",
+      "caution": "In Sandy Springs, ask how site work and the intended layout affect the full project budget. A lot with a compelling location may still need careful scope and permit review. We can discuss a possible funding connection once you have the project details ready."
+    },
+    {
+      "slug": "union-city",
+      "name": "Union City",
+      "county": "Fulton",
+      "title": "Fix and Flip Loans in Union City, GA | Atlanta Fix & Flip Loan",
+      "description": "Explore fix and flip loan connections for Union City, Georgia investors. Share the property and renovation plan for a project-specific review.",
+      "intro": "Union City residential streets and subdivisions sit along the I-85 corridor. If you are planning a fix and flip in Union City, share the property, your repair plan and intended resale. We connect investors with potential funding sources and are not a direct lender.",
+      "angle": "The location and renovation scope should be considered together. Union City residential streets and subdivisions sit along the I-85 corridor.",
+      "caution": "Look beyond a quick cosmetic estimate when assessing an older property. Compare the planned finished home with nearby sales and document the repair scope clearly. We can discuss a possible funding connection once you have the project details ready."
+    },
+    {
+      "slug": "duluth",
+      "name": "Duluth",
+      "county": "Gwinnett",
+      "title": "Fix and Flip Loans in Duluth, GA | Atlanta Fix & Flip Loan",
+      "description": "Explore fix and flip loan connections for Duluth, Georgia investors. Share the property and renovation plan for a project-specific review.",
+      "intro": "Near the Town Green and Sugarloaf corridor, homes span older residential blocks and planned communities. If you are planning a fix and flip in Duluth, share the property, your repair plan and intended resale. We connect investors with potential funding sources and are not a direct lender.",
+      "angle": "The location and renovation scope should be considered together. Near the Town Green and Sugarloaf corridor, homes span older residential blocks and planned communities.",
+      "caution": "For a Duluth subdivision flip, request any applicable HOA guidance early. Cosmetic work and a deeper renovation have different budget and resale risks. We can discuss a possible funding connection once you have the project details ready."
+    },
+    {
+      "slug": "lawrenceville",
+      "name": "Lawrenceville",
+      "county": "Gwinnett",
+      "title": "Fix and Flip Loans in Lawrenceville, GA | Atlanta Fix & Flip Loan",
+      "description": "Explore fix and flip loan connections for Lawrenceville, Georgia investors. Share the property and renovation plan for a project-specific review.",
+      "intro": "The courthouse-square area and outlying subdivisions present distinct renovation opportunities. If you are planning a fix and flip in Lawrenceville, share the property, your repair plan and intended resale. We connect investors with potential funding sources and are not a direct lender.",
+      "angle": "The location and renovation scope should be considered together. The courthouse-square area and outlying subdivisions present distinct renovation opportunities.",
+      "caution": "A downtown Lawrenceville home may call for a different scope than a newer subdivision property. Use close property comparisons when estimating the resale. We can discuss a possible funding connection once you have the project details ready."
+    },
+    {
+      "slug": "norcross",
+      "name": "Norcross",
+      "county": "Gwinnett",
+      "title": "Fix and Flip Loans in Norcross, GA | Atlanta Fix & Flip Loan",
+      "description": "Explore fix and flip loan connections for Norcross, Georgia investors. Share the property and renovation plan for a project-specific review.",
+      "intro": "The historic downtown and the Buford Highway corridor give Norcross a varied housing mix. If you are planning a fix and flip in Norcross, share the property, your repair plan and intended resale. We connect investors with potential funding sources and are not a direct lender.",
+      "angle": "The location and renovation scope should be considered together. The historic downtown and the Buford Highway corridor give Norcross a varied housing mix.",
+      "caution": "For a home near a historic area, check the applicable exterior rules. A subdivision property outside downtown calls for a different buyer and comparison set. We can discuss a possible funding connection once you have the project details ready."
+    },
+    {
+      "slug": "peachtree-corners",
+      "name": "Peachtree Corners",
+      "county": "Gwinnett",
+      "title": "Fix and Flip Loans in Peachtree Corners, GA | Atlanta Fix & Flip Loan",
+      "description": "Explore fix and flip loan connections for Peachtree Corners, Georgia investors. Share the property and renovation plan for a project-specific review.",
+      "intro": "Neighborhoods around Technology Park and the Town Center have different ages and layouts. If you are planning a fix and flip in Peachtree Corners, share the property, your repair plan and intended resale. We connect investors with potential funding sources and are not a direct lender.",
+      "angle": "The location and renovation scope should be considered together. Neighborhoods around Technology Park and the Town Center have different ages and layouts.",
+      "caution": "Review HOA requirements for a planned-community property. Match renovation choices to nearby sales rather than assuming the wider city sets the exit. We can discuss a possible funding connection once you have the project details ready."
+    },
+    {
+      "slug": "snellville",
+      "name": "Snellville",
+      "county": "Gwinnett",
+      "title": "Fix and Flip Loans in Snellville, GA | Atlanta Fix & Flip Loan",
+      "description": "Explore fix and flip loan connections for Snellville, Georgia investors. Share the property and renovation plan for a project-specific review.",
+      "intro": "Snellville stretches from older brick houses near Highway 78 to later subdivisions. If you are planning a fix and flip in Snellville, share the property, your repair plan and intended resale. We connect investors with potential funding sources and are not a direct lender.",
+      "angle": "The location and renovation scope should be considered together. Snellville stretches from older brick houses near Highway 78 to later subdivisions.",
+      "caution": "A mailing address may not match the city boundary, so confirm the parcel when reviewing a deal. The nearest comparable homes matter more than a general Snellville label. We can discuss a possible funding connection once you have the project details ready."
+    },
+    {
+      "slug": "suwanee",
+      "name": "Suwanee",
+      "county": "Gwinnett",
+      "title": "Fix and Flip Loans in Suwanee, GA | Atlanta Fix & Flip Loan",
+      "description": "Explore fix and flip loan connections for Suwanee, Georgia investors. Share the property and renovation plan for a project-specific review.",
+      "intro": "Old Town Suwanee and Town Center offer different housing settings for an investor. If you are planning a fix and flip in Suwanee, share the property, your repair plan and intended resale. We connect investors with potential funding sources and are not a direct lender.",
+      "angle": "The location and renovation scope should be considered together. Old Town Suwanee and Town Center offer different housing settings for an investor.",
+      "caution": "A townhome or condo can come with association rules that affect the project. Check the parcel and comparable sales before choosing an exit price. We can discuss a possible funding connection once you have the project details ready."
+    },
+    {
+      "slug": "mcdonough",
+      "name": "McDonough",
+      "county": "Henry",
+      "title": "Fix and Flip Loans in McDonough, GA | Atlanta Fix & Flip Loan",
+      "description": "Explore fix and flip loan connections for McDonough, Georgia investors. Share the property and renovation plan for a project-specific review.",
+      "intro": "McDonough pairs a historic square with growing subdivisions along the south metro corridor. If you are planning a fix and flip in McDonough, share the property, your repair plan and intended resale. We connect investors with potential funding sources and are not a direct lender.",
+      "angle": "The location and renovation scope should be considered together. McDonough pairs a historic square with growing subdivisions along the south metro corridor.",
+      "caution": "A subdivision flip may need HOA review and a finish level that fits nearby homes. A property closer to the square can call for a very different renovation plan. We can discuss a possible funding connection once you have the project details ready."
+    },
+    {
+      "slug": "stockbridge",
+      "name": "Stockbridge",
+      "county": "Henry",
+      "title": "Fix and Flip Loans in Stockbridge, GA | Atlanta Fix & Flip Loan",
+      "description": "Explore fix and flip loan connections for Stockbridge, Georgia investors. Share the property and renovation plan for a project-specific review.",
+      "intro": "Stockbridge subdivisions along the south metro corridor include homes of varied ages. If you are planning a fix and flip in Stockbridge, share the property, your repair plan and intended resale. We connect investors with potential funding sources and are not a direct lender.",
+      "angle": "The location and renovation scope should be considered together. Stockbridge subdivisions along the south metro corridor include homes of varied ages.",
+      "caution": "A dated interior may be straightforward, but condition and HOA requirements still need checking. Build the funding request around the property and the proposed repair scope. We can discuss a possible funding connection once you have the project details ready."
+    }
+  ],
+  "nearbyAreas": {
+    "atlanta": [
+      "decatur",
+      "east-point",
+      "smyrna"
+    ],
+    "sandy-springs": [
+      "brookhaven",
+      "dunwoody",
+      "roswell"
+    ],
+    "roswell": [
+      "alpharetta",
+      "sandy-springs",
+      "marietta"
+    ],
+    "alpharetta": [
+      "roswell",
+      "milton",
+      "johns-creek"
+    ],
+    "marietta": [
+      "smyrna",
+      "kennesaw",
+      "powder-springs"
+    ],
+    "smyrna": [
+      "marietta",
+      "mableton",
+      "atlanta"
+    ],
+    "kennesaw": [
+      "acworth",
+      "marietta",
+      "powder-springs"
+    ],
+    "decatur": [
+      "atlanta",
+      "stone-mountain",
+      "tucker"
+    ],
+    "duluth": [
+      "norcross",
+      "peachtree-corners",
+      "suwanee"
+    ],
+    "lawrenceville": [
+      "snellville",
+      "duluth",
+      "suwanee"
+    ],
+    "douglasville": [
+      "powder-springs",
+      "mableton",
+      "atlanta"
+    ],
+    "mcdonough": [
+      "stockbridge",
+      "forest-park",
+      "union-city"
+    ],
+    "acworth": [
+      "kennesaw",
+      "powder-springs",
+      "marietta"
+    ],
+    "powder-springs": [
+      "mableton",
+      "marietta",
+      "douglasville"
+    ],
+    "forest-park": [
+      "college-park",
+      "east-point",
+      "stockbridge"
+    ],
+    "brookhaven": [
+      "chamblee",
+      "sandy-springs",
+      "decatur"
+    ],
+    "dunwoody": [
+      "sandy-springs",
+      "chamblee",
+      "brookhaven"
+    ],
+    "lithonia": [
+      "stonecrest",
+      "stone-mountain",
+      "decatur"
+    ],
+    "stone-mountain": [
+      "tucker",
+      "lithonia",
+      "snellville"
+    ],
+    "tucker": [
+      "stone-mountain",
+      "norcross",
+      "decatur"
+    ],
+    "college-park": [
+      "east-point",
+      "forest-park",
+      "union-city"
+    ],
+    "east-point": [
+      "college-park",
+      "atlanta",
+      "forest-park"
+    ],
+    "johns-creek": [
+      "alpharetta",
+      "suwanee",
+      "duluth"
+    ],
+    "norcross": [
+      "peachtree-corners",
+      "duluth",
+      "tucker"
+    ],
+    "peachtree-corners": [
+      "norcross",
+      "duluth",
+      "johns-creek"
+    ],
+    "stockbridge": [
+      "mcdonough",
+      "forest-park",
+      "lithonia"
+    ],
+    "suwanee": [
+      "duluth",
+      "johns-creek",
+      "lawrenceville"
+    ],
+    "snellville": [
+      "lawrenceville",
+      "stone-mountain",
+      "lithonia"
+    ],
+    "mableton": [
+      "smyrna",
+      "powder-springs",
+      "douglasville"
+    ],
+    "stonecrest": [
+      "lithonia",
+      "stone-mountain",
+      "stockbridge"
+    ],
+    "chamblee": [
+      "brookhaven",
+      "dunwoody",
+      "tucker"
+    ],
+    "milton": [
+      "alpharetta",
+      "roswell",
+      "johns-creek"
+    ],
+    "union-city": [
+      "college-park",
+      "east-point",
+      "forest-park"
+    ]
+  },
+  "scenarios": {},
+  "pages": {
+    "fundingWorks": {
+      "path": "/how-fix-and-flip-funding-works-in-georgia/",
+      "title": "How Fix and Flip Funding Works in Georgia",
+      "description": "The asset-based fix and flip funding process in Georgia: what a lender looks at, the paperwork a file usually needs, and how a project moves toward closing.",
+      "h1": "How Fix and Flip Funding Works in Georgia",
+      "schemaName": "How Fix and Flip Funding Works in Georgia",
+      "schemaDescription": "The asset-based fix and flip funding process in Georgia: what a lender looks at, the paperwork a file usually needs, and how a project moves toward closing.",
+      "heroIntro": "The asset-based fix and flip funding process in Georgia: what a lender looks at, the paperwork a file usually needs, and how a project moves toward closing.",
+      "location": "Funding Works Guide"
+    },
+    "vsHardMoney": {
+      "path": "/fix-and-flip-vs-hard-money/",
+      "title": "Fix and Flip vs Hard Money: An Honest Comparison",
+      "description": "An honest comparison of fix and flip loans and hard money: how the terms relate, where the costs and speed differ, and when another product fits better.",
+      "h1": "Fix and Flip vs Hard Money",
+      "schemaName": "Fix and Flip vs Hard Money",
+      "schemaDescription": "An honest comparison of fix and flip loans and hard money: how the terms relate, where the costs and speed differ, and when another product fits better.",
+      "heroIntro": "An honest comparison of fix and flip loans and hard money: how the terms relate, where the costs and speed differ, and when another product fits better.",
+      "location": "Comparison Guide"
+    },
+    "costs": {
+      "path": "/fix-and-flip-loan-costs/",
+      "title": "Fix and Flip Loan Costs: Rates, ARV and Fees",
+      "description": "How fix and flip loan costs fit together: monthly interest, closing points, extensions and the complete written offer.",
+      "h1": "Fix and Flip Loan Costs",
+      "schemaName": "Fix and Flip Loan Costs",
+      "schemaDescription": "How fix and flip loan costs fit together: monthly interest, closing points, extensions and the complete written offer.",
+      "heroIntro": "See how our points, monthly interest and extension terms affect a fix and flip project. Tell us about your Atlanta Metro property and renovation plan to discuss the costs for your project.",
+      "location": "Loan Costs Guide"
+    },
+    "privacy": {
+      "path": "/privacy/",
+      "title": "Privacy Policy",
+      "description": "How this site handles information submitted by investors.",
+      "h1": "Privacy Policy",
+      "intro": "How we handle information sent through this website."
+    },
+    "terms": {
+      "path": "/terms/",
+      "title": "Terms of Service",
+      "description": "Terms for using the Atlanta Fix & Flip Loan website.",
+      "h1": "Terms of Service",
+      "intro": "Information about using this website and sending a project for review."
+    }
+  }
+}

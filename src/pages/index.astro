@@ -1,0 +1,15 @@
+---
+import Base from '../layouts/Base.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import CityContent from '../components/CityContent.astro';
+import {getLoanTerms} from '../data/loanTerms';
+import {brand,domain,cities,site,home} from '../data/city';
+const title=home.title;
+const loanTerms = await getLoanTerms();
+const description=home.description;
+const businessId=`https://${domain}/#business`;
+const faq=home.faqs;
+const jsonld=[{'@context':'https://schema.org','@type':'WebSite',name:brand,url:`https://${domain}/`},{'@context':'https://schema.org','@type':'FinancialService','@id':businessId,name:brand,url:`https://${domain}/`,areaServed:cities.map(c=>({'@type':'City',name:c.name,containedInPlace:{'@type':'State',name:site.state}})),description:site.serviceDescription},{'@context':'https://schema.org','@type':'Service',serviceType:site.serviceType,provider:{'@id':businessId},areaServed:cities.map(c=>({'@type':'City',name:c.name,containedInPlace:{'@type':'State',name:site.state}}))},{'@context':'https://schema.org','@type':'FAQPage',mainEntity:faq.map(f=>({'@type':'Question',name:f.q,acceptedAnswer:{'@type':'Answer',text:f.a}}))}];
+---
+<Base title={title} description={description} path="/" jsonld={jsonld}><Header/><main><CityContent cityName={home.cityName} location={home.location} intro={home.intro} angle={home.angle} caution={home.caution} showCityGrid={true} loanTerms={loanTerms}/></main><Footer/></Base>

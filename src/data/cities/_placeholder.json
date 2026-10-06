@@ -1,0 +1,229 @@
+{
+  "site": {
+    "brand": "{Biz Name}",
+    "brandHeaderHtml": "{Biz Name, header version - <br/> allowed}",
+    "domain": "{metro-domain.com}",
+    "formName": "{Biz-Name-Form}",
+    "nicheTitle": "Fix & Flip Funding",
+    "pageCode": "FNF",
+    "state": "{State}",
+    "region": "{ST}",
+    "metroName": "metro {City}",
+    "homeCityName": "{City} Metro",
+    "legalCityName": "metro {City}",
+    "legalLocation": "{Metro code}",
+    "ga4MeasurementId": "",
+    "airchattyTrackingId": "{tracker id}",
+    "serviceType": "{Main Service}",
+    "serviceDescription": "{One schema.org sentence: what {Biz Name} offers across metro {City}, {State}.}",
+    "footerTagline": "{One sentence: what {Biz Name} offers across metro {City}.}",
+    "guideLinks": [
+      {
+        "path": "/how-fix-and-flip-funding-works-in-georgia/",
+        "label": "How Fix and Flip Funding Works in {State}"
+      },
+      {
+        "path": "/fix-and-flip-vs-hard-money/",
+        "label": "Fix and Flip vs Hard Money"
+      },
+      {
+        "path": "/fix-and-flip-loan-costs/",
+        "label": "Fix and Flip Loan Costs"
+      }
+    ],
+    "priorityCities": [
+      "city-one",
+      "city-two",
+      "city-three",
+      "city-four"
+    ],
+    "exampleCitySlug": "city-one",
+    "sheetUrl": "{Google Sheet gviz URL for the program terms sheet, or empty to always use fallbackTerms}",
+    "fallbackTerms": {
+      "fundingMax": "100%",
+      "drawTiming": "same-day construction draws",
+      "closingSpeed": "fast closings",
+      "feeDisclosure": "straightforward terms with no hidden fees",
+      "structure1ClosingPoints": "0.5 point",
+      "structure1MonthlyInterest": "1.5% monthly interest-only",
+      "structure1BalloonMonths": "6-month balloon",
+      "structure1ExtensionPoints": "1 point",
+      "structure2ClosingPoints": "3 points",
+      "structure2MonthlyInterest": "1% monthly interest-only",
+      "structure2BalloonMonths": "6-month balloon",
+      "structure2ExtensionPoints": "3 points",
+      "extensionMonths": "6-month extension",
+      "exampleLoanAmount": "",
+      "exampleHoldMonths": "",
+      "exampleAssumption": ""
+    },
+    "ui": {
+      "exploreTitle": "Explore metro {City}",
+      "exploreIntro": "{1-2 sentences introducing the metro service-area grid.}",
+      "workedExampleHeading": "How a {City} flip loan could work",
+      "faqLenderAnswer": "No. {Biz Name} connects investors with one lending partner. Our lending partner makes its own decisions and provides the actual terms.",
+      "fundingWorksLinkLabel": "how fix and flip funding works in {State}",
+      "lenderFootprint": "{One sentence: which states or regions the lending program serves.}"
+    }
+  },
+  "home": {
+    "title": "{Homepage title tag | {Biz Name}}",
+    "description": "{Homepage meta description}",
+    "cityName": "{City} Metro",
+    "location": "Homepage",
+    "intro": "{3-4 sentences of genuinely local hero copy for metro {City}: real counties, real housing stock, how a fix and flip funding connection works. No metro-name swap.}",
+    "angle": "{2-3 sentences: what makes projects across metro {City} different.}",
+    "caution": "{1-2 sentences: the honest caution about repair budgets and written offers.}",
+    "faqs": [
+      {
+        "q": "Are you the lender?",
+        "a": "No. We connect investors with one lending partner. Our lending partner determines eligibility and terms."
+      },
+      {
+        "q": "Does submitting guarantee funding?",
+        "a": "No. A submission starts a review, not an approval or commitment."
+      }
+    ]
+  },
+  "cities": [
+    {
+      "slug": "city-one",
+      "name": "{City One}",
+      "county": "{County One}",
+      "title": "{One: city-page title tag | {Biz Name}}",
+      "description": "{City One meta description}",
+      "intro": "{3-4 sentences of genuinely local intro copy for {City One}: real neighborhoods or housing stock, how a fix and flip project review works there. No city-name swap.}",
+      "angle": "{2-3 sentences: a closer look at {City One} - what makes projects there different.}",
+      "caution": "{1-2 sentences: the honest caution for {City One} deals.}"
+    },
+    {
+      "slug": "city-two",
+      "name": "{City Two}",
+      "county": "{County One}",
+      "title": "{Two: city-page title tag | {Biz Name}}",
+      "description": "{City Two meta description}",
+      "intro": "{3-4 sentences of genuinely local intro copy for {City Two}: real neighborhoods or housing stock, how a fix and flip project review works there. No city-name swap.}",
+      "angle": "{2-3 sentences: a closer look at {City Two} - what makes projects there different.}",
+      "caution": "{1-2 sentences: the honest caution for {City Two} deals.}"
+    },
+    {
+      "slug": "city-three",
+      "name": "{City Three}",
+      "county": "{County Two}",
+      "title": "{Three: city-page title tag | {Biz Name}}",
+      "description": "{City Three meta description}",
+      "intro": "{3-4 sentences of genuinely local intro copy for {City Three}: real neighborhoods or housing stock, how a fix and flip project review works there. No city-name swap.}",
+      "angle": "{2-3 sentences: a closer look at {City Three} - what makes projects there different.}",
+      "caution": "{1-2 sentences: the honest caution for {City Three} deals.}"
+    },
+    {
+      "slug": "city-four",
+      "name": "{City Four}",
+      "county": "{County Two}",
+      "title": "{Four: city-page title tag | {Biz Name}}",
+      "description": "{City Four meta description}",
+      "intro": "{3-4 sentences of genuinely local intro copy for {City Four}: real neighborhoods or housing stock, how a fix and flip project review works there. No city-name swap.}",
+      "angle": "{2-3 sentences: a closer look at {City Four} - what makes projects there different.}",
+      "caution": "{1-2 sentences: the honest caution for {City Four} deals.}"
+    },
+    {
+      "slug": "city-five",
+      "name": "{City Five}",
+      "county": "{County Three}",
+      "title": "{Five: city-page title tag | {Biz Name}}",
+      "description": "{City Five meta description}",
+      "intro": "{3-4 sentences of genuinely local intro copy for {City Five}: real neighborhoods or housing stock, how a fix and flip project review works there. No city-name swap.}",
+      "angle": "{2-3 sentences: a closer look at {City Five} - what makes projects there different.}",
+      "caution": "{1-2 sentences: the honest caution for {City Five} deals.}"
+    },
+    {
+      "slug": "city-six",
+      "name": "{City Six}",
+      "county": "{County Three}",
+      "title": "{Six: city-page title tag | {Biz Name}}",
+      "description": "{City Six meta description}",
+      "intro": "{3-4 sentences of genuinely local intro copy for {City Six}: real neighborhoods or housing stock, how a fix and flip project review works there. No city-name swap.}",
+      "angle": "{2-3 sentences: a closer look at {City Six} - what makes projects there different.}",
+      "caution": "{1-2 sentences: the honest caution for {City Six} deals.}"
+    }
+  ],
+  "nearbyAreas": {
+    "city-one": [
+      "city-two",
+      "city-three",
+      "city-four"
+    ],
+    "city-two": [
+      "city-three",
+      "city-four",
+      "city-five"
+    ],
+    "city-three": [
+      "city-four",
+      "city-five",
+      "city-six"
+    ],
+    "city-four": [
+      "city-five",
+      "city-six",
+      "city-one"
+    ],
+    "city-five": [
+      "city-six",
+      "city-one",
+      "city-two"
+    ],
+    "city-six": [
+      "city-one",
+      "city-two",
+      "city-three"
+    ]
+  },
+  "scenarios": {},
+  "pages": {
+    "fundingWorks": {
+      "path": "/how-fix-and-flip-funding-works-in-georgia/",
+      "title": "How Fix and Flip Funding Works in {State}",
+      "description": "The asset-based fix and flip funding process in {State}: what a lender looks at, the paperwork a file usually needs, and how a project moves toward closing.",
+      "h1": "How Fix and Flip Funding Works in {State}",
+      "schemaName": "How Fix and Flip Funding Works in {State}",
+      "schemaDescription": "The asset-based fix and flip funding process in {State}: what a lender looks at, the paperwork a file usually needs, and how a project moves toward closing.",
+      "heroIntro": "The asset-based fix and flip funding process in {State}: what a lender looks at, the paperwork a file usually needs, and how a project moves toward closing.",
+      "location": "Funding Works Guide"
+    },
+    "vsHardMoney": {
+      "path": "/fix-and-flip-vs-hard-money/",
+      "title": "Fix and Flip vs Hard Money: An Honest Comparison",
+      "description": "An honest comparison of fix and flip loans and hard money: how the terms relate, where the costs and speed differ, and when another product fits better.",
+      "h1": "Fix and Flip vs Hard Money",
+      "schemaName": "Fix and Flip vs Hard Money",
+      "schemaDescription": "An honest comparison of fix and flip loans and hard money: how the terms relate, where the costs and speed differ, and when another product fits better.",
+      "heroIntro": "An honest comparison of fix and flip loans and hard money: how the terms relate, where the costs and speed differ, and when another product fits better.",
+      "location": "Comparison Guide"
+    },
+    "costs": {
+      "path": "/fix-and-flip-loan-costs/",
+      "title": "Fix and Flip Loan Costs: Rates, ARV and Fees",
+      "description": "How fix and flip loan costs fit together: monthly interest, closing points, extensions and the complete written offer.",
+      "h1": "Fix and Flip Loan Costs",
+      "schemaName": "Fix and Flip Loan Costs",
+      "schemaDescription": "How fix and flip loan costs fit together: monthly interest, closing points, extensions and the complete written offer.",
+      "heroIntro": "See how our points, monthly interest and extension terms affect a fix and flip project. Tell us about your {City} Metro property and renovation plan to discuss the costs for your project.",
+      "location": "Loan Costs Guide"
+    },
+    "privacy": {
+      "path": "/privacy/",
+      "title": "Privacy Policy",
+      "description": "How this site handles information submitted by investors.",
+      "h1": "Privacy Policy",
+      "intro": "How we handle information sent through this website."
+    },
+    "terms": {
+      "path": "/terms/",
+      "title": "Terms of Service",
+      "description": "Terms for using the {Biz Name} website.",
+      "h1": "Terms of Service",
+      "intro": "Information about using this website and sending a project for review."
+    }
+  }
+}
